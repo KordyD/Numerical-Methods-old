@@ -1,0 +1,3 @@
+C:/Users/dimak/CLionProjects/numerical_methods3/cmake-build-debug/CMakeFiles/numerical_methods3.dir
+C:/Users/dimak/CLionProjects/numerical_methods3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dimak/CLionProjects/numerical_methods3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
